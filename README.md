@@ -4,4 +4,4 @@ Landing page website for a fictional book tickets and fly with us called **"Aero
 ![Live project](pre.png)
 
 *This project is a part of project*
-[https://fastidious-babka-002496.netlify.app/]
+[https://superb-flan-770db6.netlify.app/]
