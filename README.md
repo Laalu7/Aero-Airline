@@ -1,2 +1,7 @@
-# Aero-Airline
-Aero-Airline web page using HTML,CSS3,JS
+# Aero-Airline - website
+
+Landing page website for a fictional book tickets and fly with us called **"Aero-Airline-website"** build using modern **HTML5** , **CSS3**  and **JAVASCRIPT**.
+![Live project](pre.png)
+
+*This project is a part of project*
+[https://fastidious-babka-002496.netlify.app/]
